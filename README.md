@@ -1,5 +1,7 @@
 # Bienvenido a Esquivando al Enemigo
 
+Corre el archivo menu.py
+
 Este juego empieza con 3 opciones: 
 - Jugar: Inicia directamente el juego.
 -  Seleccionar nivel: Te lleva a una pantalla que te permite cambiar el nivel del juego entre fácil o dicícil. a mayor nivel mayor será la velocidad a la que se mueven tus enemigos.
